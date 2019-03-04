@@ -1,0 +1,21 @@
+{
+    "name": "ai",
+    "version": "1.0.0",
+    "description": "tencent ai create sign 腾讯ai平台签名生成",
+    "main": "index.js",
+    "dependencies": {
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "node ./index.js"
+    },
+    "keywords": [
+      "tencent",
+      "ai",
+      "sign",
+      "ai",
+      "lab"
+    ],
+    "author": "yuanboyun",
+    "license": "ISC"
+  }
